@@ -1,4 +1,5 @@
-﻿using System;
+change ninja
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,6 +26,7 @@ namespace GoSkiing.cs
             double SumDDS = AllSki * 1.2;
 
             Console.WriteLine("{0:F2}", SumDDS);
+
 
         }
     }
